@@ -9,7 +9,7 @@
     "build:client": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "node api/server.js",
-    "build": "react-scrips build"
+    "build": "react-scripts build"
   },
   "keywords": [],
   "author": "",
